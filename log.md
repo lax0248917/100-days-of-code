@@ -8,3 +8,12 @@
 
 **Link(s) to work**
 1. [OneNote - Freshservice Integration](https://github.com/lax0248917/oneNote-Freshservice_Integration)
+
+### Day 2: June 06, Friday
+
+**Today's Progress**: Today I started working my way through the FreeCodeCamp Responsive Web Design Projects. First project in the line-up is a Tribute Page. Picked Steve Yzerman, and began the layout of the page using HTML and CSS. I also created a Trello Board for my 100DaysOfCode journey. 
+
+**Thoughts** These projects are a great place to start to add some content to my resume. But the truth is I am not much of a designer. I much prefer creating applications that use functional programming. But I really need to work on just the basics for a little while.
+
+**Link(s) to work**
+1. [FFC Tribute Page Project](https://github.com/lax0248917/100DOC_Tribute_Page)

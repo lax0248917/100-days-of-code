@@ -26,3 +26,12 @@
 
 **Link(s) to work**
 1. [FFC Survey Form Project](https://github.com/lax0248917/100DOC_Survey_Form)
+
+### Day 4: June 08, Monday
+
+**Today's Progress**: Today was a rough day. I took a step back from FreeCodeCamp projects to deploy my slackbot to MS Azure. This was a real struggle but was finally able to get it live. No I am struggling to replicate the scenario, something to do with the Slack API. 
+
+**Thoughts** It shouldn't be this hard to simply create an application and publish to production but it just doesn't seem to want to function as it should. This leads to frustration. But I know that I will figure it out, I just have to stick with it. Tomorrow is another day.
+
+**Link(s) to work**
+1. [FirstSlackBot](https://github.com/lax0248917/firstSlackBot)

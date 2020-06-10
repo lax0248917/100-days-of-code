@@ -35,3 +35,12 @@
 
 **Link(s) to work**
 1. [FirstSlackBot](https://github.com/lax0248917/firstSlackBot)
+
+### Day 5: June 09, Tuesday
+
+**Today's Progress**: Today I created a RESTful Todo List API using node.js and MongoDB. Using CRUD methods I am able to add tasks that need completed to a database. I am thinking of tying in a frontend application to create the tasks. 
+
+**Thoughts** After working through these tutorials to learn new concepts, I am struggling with the retention percentage. The over-arching concepts make sense to me but when I try to recreate these apps, I struggle to do so. Starting to realize that being a developer requires a level of acceptance and patience. 
+
+**Link(s) to work**
+1. [Todo List API](https://github.com/lax0248917/todoListApi)

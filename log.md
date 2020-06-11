@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 6: June 10, Wednesday
+
+**Today's Progress** Today was the start of a new development team. Discussed some career goals, talked about Software as a Service, and taught about The Agile Method. Introduced Trello into our project management toolbox. 
+
+Today I didn't write much code. However I did make a few tweaks on an app I developed for my workplace. Required using a little jQuery to grab an html element and attach a value to it. 
+
+**Thoughts** The 100DaysOfCode community led me to meet a really cool dude. We have joined up to start a development team that will begin the planning stages of a project. Not sure what yet...
+
+**Link(s) to work**
+1. [Manifesto for Agile Software Development](https://agilemanifesto.org/)
+
 ### Day 5: June 09, Tuesday
 
 **Today's Progress**: Today I created a RESTful Todo List API using node.js and MongoDB. Using CRUD methods I am able to add tasks that need completed to a database. I am thinking of tying in a frontend application to create the tasks. 

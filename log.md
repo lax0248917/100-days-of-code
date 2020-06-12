@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 7: June 11, Thursday
+
+**Today's Progress** Today, we advanced in building our development team by adding 5 more members. Worked on creating a repo to submit possible team names. Also worked with VS Code Live Share with a teammate to work on some collaboration tools. We worked a Codewars Code Kata together.
+ 
+**Thoughts** It was a great day. We were really able to make some headway with organizing our dev team. Looking forward to working with these guys. Anxious to see what we can come up with.
+
+**Link(s) to work**
+1. [Codewars Katas](https://github.com/lax0248917/CodewarsKatas)
+
 ### Day 6: June 10, Wednesday
 
 **Today's Progress** Today was the start of a new development team. Discussed some career goals, talked about Software as a Service, and taught about The Agile Method. Introduced Trello into our project management toolbox. 

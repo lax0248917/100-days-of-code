@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 6: June 12, Friday
+
+**Today's Progress** Today, taught a fellow coder how to use git and github, worked on researching how to implement Git Flow. Also worked on some code katas. Stuck trying to figure out how to pass an object into a javascript function.
+ 
+**Thoughts** Frustrated that I struggled so much with passing an object into a function. The concept makes sense to me but I struggled figuring out the syntax. Will tackle again tomorrow. However, enjoyed being able to teach someone on how to use git and github. Their reaction when they were able to get it to work is so rewarding.
+
+**Link(s) to work**
+1. [Codewars Katas](https://github.com/lax0248917/CodewarsKatas)
+
 ### Day 7: June 11, Thursday
 
 **Today's Progress** Today, we advanced in building our development team by adding 5 more members. Worked on creating a repo to submit possible team names. Also worked with VS Code Live Share with a teammate to work on some collaboration tools. We worked a Codewars Code Kata together.

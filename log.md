@@ -1,6 +1,15 @@
 # 100 Days Of Code - Log
 
-### Day 6: June 12, Friday
+### Day 9: June 13, Saturday
+
+**Today's Progress** Today, I worked on a code kata using javascript string manipulation. Usecase was to take a persons name as a string and return only their first and last initial. Stumbled into the answer and had a fellow dev refactor the code for me. Also our development team took a big step forward today and decided on a team name. Go Team Armadillo!!
+ 
+**Thoughts** Really excited to start planning our team's first project. There are a number of great ideas. Our goal is to grow as developers while learning what it is like to be part of a software development team in the workplace. Utilizing all the professional development tools. Lots to learn, that is for sure.
+
+**Link(s) to work**
+1. [Codewars Katas](https://github.com/lax0248917/CodewarsKatas)
+
+### Day 8: June 12, Friday
 
 **Today's Progress** Today, taught a fellow coder how to use git and github, worked on researching how to implement Git Flow. Also worked on some code katas. Stuck trying to figure out how to pass an object into a javascript function.
  

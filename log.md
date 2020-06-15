@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 10: June 14, Sunday
+
+**Today's Progress** Today, Again I worked on a code kata using javascript string manipulation. This time was focused on creating a method that would work on String.prototype. The "This" Keyword was introduced to solve this problem.
+ 
+**Thoughts** Was a great day for Team Armadillo as we were introduced to our Team's Logo. One step closer to starting our first project.
+
+**Link(s) to work**
+1. [Codewars Katas](https://github.com/lax0248917/CodewarsKatas)
+
 ### Day 9: June 13, Saturday
 
 **Today's Progress** Today, I worked on a code kata using javascript string manipulation. Usecase was to take a persons name as a string and return only their first and last initial. Stumbled into the answer and had a fellow dev refactor the code for me. Also our development team took a big step forward today and decided on a team name. Go Team Armadillo!!

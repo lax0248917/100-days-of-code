@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 11: June 15, Monday
+
+**Today's Progress** Today, I spent time working in our team's slack channel adding content that would help offer resources for those looking for web development tools. I also did some further study on the Agile Method in preparation for our team's first meeting. Did write much code today, but did focus on software development culture.
+ 
+**Thoughts** I wish I had worked on a project or two. Just write some code. But work was busy and I really wanted to be prepared for our team's first meeting. So my focus was on that. There will be many more days of writing code. The goal is to remain focused.
+
+**Link(s) to work**
+1. [Codewars Katas](https://github.com/lax0248917/CodewarsKatas)
+
 ### Day 10: June 14, Sunday
 
 **Today's Progress** Today, Again I worked on a code kata using javascript string manipulation. This time was focused on creating a method that would work on String.prototype. The "This" Keyword was introduced to solve this problem.

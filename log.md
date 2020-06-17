@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 12: June 16, Tuesday
+
+**Today's Progress** Today, was a great day. Our team had our first Zoom meeting. Was awesome getting to see everyone and introduce ourselves. We also discussed our first project, a team website. Once that was determined we started creating a backlog of issues, getting ready for our first sprint. I ended the day doing some code katas, which allowed me to spend some time coding. Worked on linking Javascript methods to refactor and shorten code.
+ 
+**Thoughts** I can't wait to see what happens with this first project our team is working on. We are working to incorporate all aspects of development to better prepare ourselves for the workplace. Add to that the challenges of working remotely and across the globe.
+
+**Link(s) to work**
+1. [Codewars Katas](https://github.com/lax0248917/CodewarsKatas)
+
 ### Day 11: June 15, Monday
 
 **Today's Progress** Today, I spent time working in our team's slack channel adding content that would help offer resources for those looking for web development tools. I also did some further study on the Agile Method in preparation for our team's first meeting. Did write much code today, but did focus on software development culture.

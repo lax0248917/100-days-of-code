@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 13: June 17, Wednesday
+
+**Today's Progress** Today I worked on solving a few code katas. Cemented the Git Flow experience for our development team. Configured GitHub for branch protection and reviewed a few pull requests.
+ 
+**Thoughts** It is so cool to witness the Git Flow process. Pull requests, merging branches, code reviews. Makes the fact of becoming a developer seem so real.
+
+**Link(s) to work**
+1. [Codewars Katas](https://github.com/lax0248917/CodewarsKatas)
+
 ### Day 12: June 16, Tuesday
 
 **Today's Progress** Today, was a great day. Our team had our first Zoom meeting. Was awesome getting to see everyone and introduce ourselves. We also discussed our first project, a team website. Once that was determined we started creating a backlog of issues, getting ready for our first sprint. I ended the day doing some code katas, which allowed me to spend some time coding. Worked on linking Javascript methods to refactor and shorten code.

@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 14: June 22, Monday
+
+**Today's Progress** Today I built a Blog Application using Node.js, Express, MongoDB and EJS. It required a few more libraries as well but was a great learning experience. Dealing with routes and views is difficult but no other way to learn but by doing.
+
+**Thoughts** This was an awesome way to get exposure to how to write server side code, allowing for the implementation of routes. It also helped me to realize that there are a lot of little things that you have to be aware of for production style code. Like sanitizing your html and preventing people from being able to cross-site script in your application. All in all it was fun to build.
+
+**Link(s) to work**
+1. [My Blog](https://github.com/lax0248917/myBlog)
+2. [How to Build a Markdown Blog Using Node.js, Express, and MongoDB](https://www.youtube.com/watch?v=1NrHkjlWVhM)
+
 ### Day 13: June 17, Wednesday
 
 **Today's Progress** Today I worked on solving a few code katas. Cemented the Git Flow experience for our development team. Configured GitHub for branch protection and reviewed a few pull requests.

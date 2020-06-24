@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 15: June 23, Tuesday
+
+**Today's Progress** Today I worked on using installation parameters that will allow for the collection of sensitive data when installing an application. In this case it was to allow for the collection of an api key and then allow us access to that key when sending post requests.
+
+**Thoughts** Had hoped to do further coding today. Perhaps work on another project but I was not able to do so. However, tomorrow is another day. 
+
+**Link(s) to work**
+1. []()
+
 ### Day 14: June 22, Monday
 
 **Today's Progress** Today I built a Blog Application using Node.js, Express, MongoDB and EJS. It required a few more libraries as well but was a great learning experience. Dealing with routes and views is difficult but no other way to learn but by doing.

@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 16: June 24, Wednesday
+
+**Today's Progress** Today I worked on FCC Survey Form. Was able to add all the remaining elements and pass all the tests. Next step will be to start styling the form. Going to try to do this with plain CSS.
+
+**Thoughts** I realize how important it is to do this exercise using only the foundations of HTML and CSS but I so want to use some styling libraries to make this look good. Will have to resist that temptation as I work to cement my knowledge of the basics.
+
+**Link(s) to work**
+1. [FFC Survey Form Project](https://github.com/lax0248917/100DOC_Survey_Form)
+
 ### Day 15: June 23, Tuesday
 
 **Today's Progress** Today I worked on using installation parameters that will allow for the collection of sensitive data when installing an application. In this case it was to allow for the collection of an api key and then allow us access to that key when sending post requests.

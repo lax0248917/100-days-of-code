@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 18: June 26, Friday
+
+**Today's Progress** Today I started working on an application that would allow administrative function to my company's SaaS software.  
+
+**Thoughts** The fact that the functionality doesn't already exist is kind of bewildering. But it gave me a chance to tackle a rather difficult feature.
+
+**Link(s) to work**
+
+### Day 17: June 25, Thursday
+
+**Today's Progress** Today I worked on finalizing a work project, designing an application for our SaaS software. 
+
+**Thoughts** Working inside an SDK designed specific for a piece of software can be challenging. Luckily there is excellent documentation available.
+
+**Link(s) to work**
+
 ### Day 16: June 24, Wednesday
 
 **Today's Progress** Today I worked on FCC Survey Form. Was able to add all the remaining elements and pass all the tests. Next step will be to start styling the form. Going to try to do this with plain CSS.

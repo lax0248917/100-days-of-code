@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 19: June 29, Monday
+
+**Today's Progress** Today I continued working on an application that would allow administrative function to my company's SaaS software. Also did some training with fellow devs on Git Flow. Learned about GitHub Issues and configured them for our Team's use. 
+
+**Thoughts** It was a lot of fun teaching my fellow teammates on how to submit code for our projects. It is really starting to come together and I am excited to see what we are capable of doing here in the next few months.
+
+**Link(s) to work**
+
 ### Day 18: June 26, Friday
 
 **Today's Progress** Today I started working on an application that would allow administrative function to my company's SaaS software.  

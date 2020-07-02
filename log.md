@@ -1,5 +1,30 @@
 # 100 Days Of Code - Log
 
+### Day 22: July 2, Thursday
+
+**Today's Progress**   
+
+**Thoughts** 
+
+**Link(s) to work**
+
+### Day 21: July 1, Wednesday
+
+**Today's Progress** Today I worked on building a Scoreboard App using Svelte. Followed along to a tutorial done by Traversy Media https://www.youtube.com/watch?v=uK2RnIzrQ0M  
+
+**Thoughts** I really enjoyed using this framework. Was very easy to setup using NPM. I really like the ability to write html, css and javascript all in the same file.
+
+**Link(s) to work**
+1. [Svelte Scoreboard](https://github.com/lax0248917/svelte-scoreboard)
+
+### Day 20: June 30, Tuesday
+
+**Today's Progress** Today I worked hard at finalizing my application for work. However it was delayed by another dev team and their progress with an update to their API.  
+
+**Thoughts** I need to handle the frustration when there are delays in a more constructive manner. My hope is as I mature in the software dev world that I can make a positive change in reducing the need for delays. I hope to be able to improve the frequency that we meet deadlines.
+
+**Link(s) to work**
+
 ### Day 19: June 29, Monday
 
 **Today's Progress** Today I continued working on an application that would allow administrative function to my company's SaaS software. Also did some training with fellow devs on Git Flow. Learned about GitHub Issues and configured them for our Team's use. 

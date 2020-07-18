@@ -1,13 +1,16 @@
 # 100 Days Of Code - Log
 
-### Day 22: July 2, Thursday
+### Day 1: July 18, Saturday
 
-**Today's Progress**   
+**Today's Progress** Started Colt Steele's "The Modern Javascript Bootcamp 2020" and completed sections 1 & 2. Most of this is review to begin with, but never hurts to go back over the fundamentals. 
 
-**Thoughts** 
+**Thoughts** In my previous attempt to complete 100DaysOfCode I made it to day 21. Today I am starting over at day 1, in an attempt to complete a new Udemy course along the way. I will be working my way through Colt Steele's "The Modern Javascript Bootcamp" https://www.udemy.com/course/javascript-beginners-complete-tutorial/
 
 **Link(s) to work**
+1. [The Modern Javascript Bootcamp 2020](https://github.com/lax0248917/New_Modern_Javascript_Bootcamp)
+ 
 
+--------------------------------
 ### Day 21: July 1, Wednesday
 
 **Today's Progress** Today I worked on building a Scoreboard App using Svelte. Followed along to a tutorial done by Traversy Media https://www.youtube.com/watch?v=uK2RnIzrQ0M  

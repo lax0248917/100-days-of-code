@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 2: July 19, Sunday
+
+**Today's Progress** Begin Section 3 of The Modern Javascript Bootcamp 2020. Covered Boolean values and covered a few string methods, including indexOf, slice, trim, toUpperCase, and toLowerCase.
+
+**Thoughts** Most of this is just review, but it is easy to forget the simple things that later down the road will help with more complex concepts.
+
+**Link(s) to work**
+1. [The Modern Javascript Bootcamp 2020](https://github.com/lax0248917/New_Modern_Javascript_Bootcamp)
+   
 ### Day 1: July 18, Saturday
 
 **Today's Progress** Started Colt Steele's "The Modern Javascript Bootcamp 2020" and completed sections 1 & 2. Most of this is review to begin with, but never hurts to go back over the fundamentals. 
